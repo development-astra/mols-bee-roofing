@@ -1002,7 +1002,7 @@ h6 {
   right: 15px;
   bottom: -15px;
   z-index: 99999;
-  background-color: #073863;
+  background-color: #0E2245;
   width: 44px;
   height: 44px;
   border-radius: 50px;
@@ -1463,7 +1463,7 @@ section,
 }
 
 .hero .hero-content .hero-btns .cta-btn:hover {
-  background: #073863;
+  background: #0E2245;
   color: #ffffff;
 }
 
@@ -1501,7 +1501,7 @@ form button.btn {
   justify-content: center;
   align-items: center;
   border-radius: 8px;
-  background: #073863;
+  background: #0E2245;
   gap: 12px;
   align-self: stretch;
 }
@@ -1861,7 +1861,7 @@ form button.btn:hover {
 .services .card {
   border-radius: 15px;
   background-color: #ffffff;
-  box-shadow: 0px 5px 10px rgba(124, 124, 124, 0.1);
+  box-shadow: 0px 5px 10px rgb(26, 86, 138);
   padding: 30px !important;
   height: 100%;
   display: flex;
@@ -1872,7 +1872,7 @@ form button.btn:hover {
 
 
 .services .card:hover {
-  background: linear-gradient(135deg, #073863 0%, #1e5a8f 100%);
+  background: linear-gradient(135deg, #0E2245 0%, #0E2245 100%);
 }
 
 .services .card h5 {
@@ -1906,7 +1906,7 @@ form button.btn:hover {
 .services .card .icon-wrapper {
   width: 60px;
   height: 60px;
-  background: #073863;
+  background: #0E2245;
   border-radius: 7px;
   padding: 10px;
   flex-shrink: 0;
@@ -1938,17 +1938,17 @@ form button.btn:hover {
 
 .services .card:hover .icon-wrapper svg,
 .services .card:hover .icon-wrapper svg path {
-  fill: #073863;
+  fill: #0E2245;
 }
 
 .services .card .card-footer .btn-primary {
-  background-color: #073863 !important;
-  border-color: #073863 !important;
+  background-color: #0E2245 !important;
+  border-color: #0E2245 !important;
 }
 
 .services .card:hover .btn-primary {
   background-color: #ffffff !important;
-  color: #073863 !important;
+  color: #0E2245 !important;
   border-color: #ffffff !important;
 }
 
@@ -2349,8 +2349,8 @@ form button.btn:hover {
 }
 
 .contact-section form button.btn {
-  background-color: #073863 !important;
-  border: 1px solid #073863 !important;
+  background-color: #0E2245 !important;
+  border: 1px solid #0E2245 !important;
   padding: 16px;
   border-radius: 8px;
 }
